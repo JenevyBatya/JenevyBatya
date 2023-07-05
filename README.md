@@ -1,5 +1,5 @@
 <img aligh="center" alt="something else" width=180% height="350"  src="https://thumbs.gfycat.com/AcclaimedPlasticAustralianfurseal-size_restricted.gif">
-<h1 align="center">Heya (=ↀωↀ=), JenevyBatya</h1>
+<h1 align="center">Heya (=ↀωↀ=), I'm JenevyBatya</h1>
 
 - 🌱 I’m currently learning **all the stuff I could find**
 - ⚡ Fun fact **Female plant aphids give birth to female aphids already pregnant with female aphids**
