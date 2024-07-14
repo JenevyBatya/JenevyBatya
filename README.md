@@ -44,9 +44,7 @@
 - PostgreSQL, MySQL, JDBC, Spring Data
 
 
-- Базовые команды Linux
-
 ### Инструменты
 
-- Git, SVN, Ant (базовые знания CI/CD)
-
+- Git, SVN, Ant (базовые знания CI/CD), Docker, Apache Maven
+- Базовые команды Linux 
