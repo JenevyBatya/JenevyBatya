@@ -46,5 +46,5 @@
 
 ### Инструменты
 
-- Git, SVN, Ant (базовые знания CI/CD), Docker, Apache Maven
+- Git, Docker, Apache Maven
 - Базовые команды Linux 
